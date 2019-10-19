@@ -65,6 +65,7 @@ confer/
     ├── blog.html
     ├── changelog.txt
     ├── contact.html
+    ├── gulpfile.js
     ├── licence
     ├── LICENSE
     ├── package.json
