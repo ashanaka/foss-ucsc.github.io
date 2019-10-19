@@ -63,7 +63,12 @@ confer/
     │   ├── style.scss
     ├── about.html
     ├── blog.html
+    ├── changelog.txt
     ├── contact.html
+    ├── licence
+    ├── LICENSE
+    ├── package.json
+    ├── readme.md
     ├── index.html [Home Page]
     ├── schedule.html
     ├── single-blog.html
